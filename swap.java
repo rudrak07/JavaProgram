@@ -1,5 +1,5 @@
 import java.util.Scanner;
- class abcd
+ class swap
 {
 
 public static void main(String ar[])
