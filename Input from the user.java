@@ -1,5 +1,5 @@
 import java.util.Scanner;
- class abc
+ class Input_from_the_user
 {
 
 public static void main(String ar[])
